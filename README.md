@@ -4,9 +4,12 @@ Nome: ...
 
 Teste começa às 9:55. Teste termina às 10:45.
 
-Substitui as reticências por o que é pedido em cada pergunta. Mete uma linha de código em cada linha.
+Escreve as respostas dentro dos blocos correspondentes. Substitui as reticências por o que é pedido em cada pergunta. Mete uma linha de código em cada linha do bloco.
 
-### 1. Pergunta
+### 1. Indica o que é impresso pelo seguinte código
+
+    ulong uL = ulong.MaxValue + 1;
+    Console.Write(uL);
 
     ...
 
