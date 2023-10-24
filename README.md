@@ -15,7 +15,7 @@ Não desformates o documento.
     char c = '\u00AE';
     Console.WriteLine($@"\n{c}\n");
 
-Resposta
+P1 - Resposta
 
     ...
 
@@ -28,18 +28,18 @@ Resposta
 
 ### Indica a correção necessária para que o código não apresente erros. Explica porque foi necessário fazer essa correção
 
-Resposta
+P2 - Resposta
 
     ...
 
 ### 3. Escreve um programa que solicite uma string ao utilizador, e seguidamente a mostre no ecrã de forma invertida
 
-Resposta
+P3 - Resposta
 
     ...
 
 ### 4. Quais são os comandos Git para configurares, de uma forma global, o teu **nome** e **email** para realização de *commits*? E se essa configuração for apenas para um repositório?
 
-Resposta
+P4 - Resposta
 
     ...
