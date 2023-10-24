@@ -4,9 +4,11 @@
 
     Nome: ...
 
-Teste termina às 10:45.
+Teste termina às 09:40 (Turno 1) / 13:25 (Turno 2).
 
-Escreve as respostas dentro dos blocos correspondentes. Substitui as reticências pelo que é pedido em cada pergunta.
+Escreve as respostas dentro dos blocos correspondentes.
+Substitui as reticências pelo que é pedido em cada pergunta.
+Não desformates o documento.
 
 ### 1. Indica o que é impresso pelo seguinte código. Justifica a tua resposta
 
@@ -20,7 +22,7 @@ Resposta
 ### 2. Considera o seguinte código
 
     double d = 0.3513;
-    float f = 12.645f;
+    float f = 12.645;
 
     Console.WriteLine($"{d} + {f} = {d + f}");
 
@@ -36,7 +38,7 @@ Resposta
 
     ...
 
-### 4. Estás na pasta do teu repositório local, onde atualizaste um ficheiro de nome 'Classes.cs'. Queres enviar estas atualizações para o teu repositório remoto. Indica os comandos necessários. A mensagem de *commit* deve ser apropriada
+### 4. Quais são os comandos Git para configurares, de uma forma global, o teu **nome** e **email** para realização de *commits*? E se essa configuração for apenas para um repositório?
 
 Resposta
 
