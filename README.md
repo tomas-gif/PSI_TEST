@@ -1,4 +1,4 @@
-# Teste de PSI Modelo
+ # Teste de PSI Modelo
 
 ## Informação do aluno
 
@@ -17,7 +17,7 @@ Não desformates o documento.
 
 P1 - Resposta
 
-    ...
+    ... sequencia de escape para representar o caracter de marca registrada.
 
 ### 2. Considera o seguinte código
 
@@ -31,6 +31,9 @@ P1 - Resposta
 P2 - Resposta
 
     ...
+    csharp
+    double =0.3513;
+    float = 
 
 ### 3. Escreve um programa que solicite uma string ao utilizador, e seguidamente a mostre no ecrã de forma invertida
 
